@@ -15,17 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋 I'm Sarit Samyak Rath .</h1>
+<h1 align="center">Hi there 👋 I'm Sarit Samyak Rath </h1>
 <h3 align="center">A Data Science and Machine Learning enthusiast !</h3>
 
 
 
 - 🔭 I’m currently working on **Neural Networks**
 - 🌱 I’m currently learning **Machine Learning** 
+- 👯 I’m looking to collaborate on **ML Projects**
 - 💬 Talk to me about **Football and Music** 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:7381014411sarit@gmail.com"><img align="center" alt="Sarit | Gmail"  width="32px" height="27px" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif"/></a>
 <a href="https://twitter.com/sarit_rath42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarit_rath42" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sarit-samyak-rath-6677a3204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarit-samyak-rath-6677a3204" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saritrath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saritrath" height="30" width="40" /></a>
@@ -33,8 +35,20 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  width="40px" height="40px"/> </a> </p>
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=SARIT42.SARIT42)   <br/>                                                                                                        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SARIT42&show_icons=true&theme=react&locale)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARIT42&theme=react&locale)  
+![](https://visitor-badge.laobi.icu/badge?page_id=SARIT42.SARIT42)   <br/>                                                                                                        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SARIT42&show_icons=true&theme=dracula)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARIT42&theme=dracula)  
 [![SARIT's github activity graph](https://activity-graph.herokuapp.com/graph?username=SARIT42&theme=react&locale)](https://github.com/SARIT42/github-readme-activity-graph)
+
+
+---
+
+<div align="right" style="color:white">
+
+#### Thanks for visiting 💚
+![VisitorCount](https://profile-counter.glitch.me/SARIT42/count.svg)
+
+🧉 From [Sarit Samyak Rath](https://github.com/SARIT42)
+
+</div>
