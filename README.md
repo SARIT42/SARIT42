@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Neural Networks** and **NLP**
 - 🌱 I’m currently learning **Machine Learning** 
 - 👯 I’m looking to collaborate on **ML Projects**
-- 💬 Talk to me about **Football and Music** 😄
+- 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
