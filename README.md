@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **Machine Learning and Deep Learning **
+- 🔭 I’m currently working on **Machine Learning and Deep Learning**
 - 🌱 I’m currently learning **Neural Networks** and **NLP**
 - 👯 I’m looking to collaborate on **ML Projects**
 - 😄 Pronouns: He/His
