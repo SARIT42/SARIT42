@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **Deep Learning**
-- 🌱 I’m currently learning **Computer Vision** and **Time-series**
+- 🔭 I’m currently working on **Computer Vision** and **Time-series**
+- 🌱 I’m currently learning **Deep Learning**
 - 👯 I’m looking to collaborate on **ML Projects**
 - 😄 Pronouns: He/His
 
