@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <br/>
   <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>-->
-<br/>
+<br/> 
 
 <a href="https://github.com/SARIT42/github-readme-activity-graph"><img alt="Sarit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SARIT42&bg_color=0D1117&color=ef8539&line=E5289E&point=e2e9ec&hide_border=true" /></a> 
 
