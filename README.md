@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **Generative AI projects** .
+- 🔭 I’m currently working on **Recommender Systems** .
 - 🌱 I’m currently learning **Deep Learning**
 - 👯 I’m looking to collaborate on **ML & DL Projects**
 
