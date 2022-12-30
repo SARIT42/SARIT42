@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋 I'm Sarit Samyak Rath </h1>
-<h3 align="center">A Data Science and Machine Learning enthusiast !</h3>
+<h3 align="center"> Data Science and Machine Learning </h3>
 
 
 
-- 🔭 I’m currently working on **Recommender Systems** .
-- 🌱 I’m currently learning **Deep Learning**
+- 🔭 I’m currently working on **Time Series** 
 - 👯 I’m looking to collaborate on **ML & DL Projects**
+- 💬 Ask me about **DS & ML**
 
 
 <h3 align="left">Connect with me:</h3>
