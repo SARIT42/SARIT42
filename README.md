@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **Time Series** 
+- 🔭 I’m currently working on **Generative AI** 
 - 👯 I’m looking to collaborate on **ML & DL Projects**
-- 💬 Ask me about **DS & ML**
+- ⚡ Music, Football and AI.
 
 
 <h3 align="left">Connect with me:</h3>
