@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **Generative AI** 
+- 🔭 I’m currently working on [**lipnet app** ](https://github.com/SARIT42/lipnet-app)
 - 👯 I’m looking to collaborate on **ML & DL Projects**
 - ⚡ Music, Football and AI.
 
