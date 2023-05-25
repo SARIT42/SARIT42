@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there! I'm Sarit </h1>
-<h3 align="center"> Data Science and Machine Learning </h3>
+<h1 align="center">Hey there! Glad to have you here. </h1>
 
 
 
-- 🔭 I’m currently working on **React.js** 
+- 🔭 I’m currently learning **React.js** 
 - 👯 I’m looking to collaborate on **ML & DL Projects**
 - ⚡ Rock Music, Real Madrid and AI.
 
