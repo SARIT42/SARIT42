@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on [**lipnet app** ](https://github.com/SARIT42/lipnet-app)
+- 🔭 I’m currently working on **React.js** 
 - 👯 I’m looking to collaborate on **ML & DL Projects**
-- ⚡ Music, Football and AI.
+- ⚡ Rock Music, Real Madrid and AI.
 
 
 <h3 align="left">Connect with me:</h3>
