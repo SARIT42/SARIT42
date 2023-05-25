@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋 I'm Sarit Samyak Rath </h1>
+<h1 align="center">Hey there! I'm Sarit </h1>
 <h3 align="center"> Data Science and Machine Learning </h3>
 
 
