@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently learning **React.js** 
+- 🔭 I’m currently learning **LangChain and LLM** 
 - 👯 I’m looking to collaborate on **ML & DL Projects**
 - ⚡ Rock Music, Real Madrid and AI.
 
