@@ -87,7 +87,7 @@ Most of the projects that I have worked on or working on can be found here. Feel
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:7381014411sarit@gmail.com)](mailto:7381014411sarit@gmail.com)
 
 
-
+<!--
   <br/>
    <a href="https://github.com/adityarajsahu">
     <img alt="Sarit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SARIT42&theme=tokyo-night" />     
