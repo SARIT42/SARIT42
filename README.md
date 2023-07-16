@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <h1 align="center">Hey there! Glad to have you here. </h1>
 
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
   <br/>
   <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>-->
+ <!--
 <br/> 
 
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=SARIT42&theme=nightowl)](https://github.com/SARIT42/github-readme-activity-graph)
@@ -64,5 +65,49 @@ Here are some ideas to get you started:
 ![VisitorCount](https://profile-counter.glitch.me/SARIT42/count.svg)
 
 🧉 From [Sarit Samyak Rath](https://github.com/SARIT42)
+
+</div>
+-->
+
+
+<h1 align='center'> Hey there! </h1>
+
+<p align="center">
+  <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+from+India;Interested+in+ML+and+AI!"></a>
+</p>
+<img  align='right' src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+I am a CS undergrad with a keen interest in ML and AI. Also in every new technology that is making our lives easier!
+
+My exploration encompasses various domains of AI, with a special focus on ever-growing technologies like Generative AI, Large Language Models (LLMs), as well as Computer Vision and Natural Language Processing. Collaborating on innovative AI endeavors is something I'm deeply enthusiastic about.
+Most of the projects that I have worked on or working on can be found here. Feel free to conect and reach out to me!
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&&link=https://www.linkedin.com/in/sarit-samyak-rath-6677a3204/)](https://www.linkedin.com/in/sarit-samyak-rath-6677a3204/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:7381014411sarit@gmail.com)](mailto:7381014411sarit@gmail.com)
+
+
+
+  <br/>
+   <a href="https://github.com/adityarajsahu">
+    <img alt="Sarit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SARIT42&theme=tokyo-night" />     
+   </a>
+  <br/>
+<!--
+ Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/vividha-rawat-761905143/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@rvividha)](https://medium.com/@rvividha)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:rvividha@gmail.com)
+-->
+<p align="center">
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=V2dha&show_icons=true&title_color=4E1C94&icon_color=4E1C94&text_color=0F0321&bg_color=FFFFFF" alt="V2dha"/>  -->
+</p>
+<div align="center" style="color:white">
+
+<p align="center"> 
+  Visitors count:<br>
+  <img src="https://profile-counter.glitch.me/SARIT42/count.svg" />
+</p>
+
+#### Thanks for visiting! 🧉 From [Sarit](https://github.com/SARIT42)
 
 </div>
