@@ -76,10 +76,10 @@ Here are some ideas to get you started:
   <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+from+India;Interested+in+ML+and+AI!"></a>
 </p>
 <img  align='right' src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-I am a CS undergrad with a keen interest in ML and AI. Also in every new technology that is making our lives easier!
+I am a CS undergrad with a keen interest in ML and AI. Also, every new technology that is making our lives easier!
 
-My exploration encompasses various domains of AI, with a special focus on ever-growing technologies like Generative AI, Large Language Models (LLMs), as well as Computer Vision and Natural Language Processing. Collaborating on innovative AI endeavors is something I'm deeply enthusiastic about.
-Most of the projects that I have worked on or working on can be found here. Feel free to conect and reach out to me!
+My exploration encompasses various domains of AI, with a special focus on ever-growing technologies like Generative AI, Large Language Models (LLMs), as well as Computer Vision, and Natural Language Processing. Collaborating on innovative AI endeavors is something I'm deeply enthusiastic about.
+Most of the projects that I have worked on or working on can be found here. Feel free to connect and reach out to me!
 
 
 
