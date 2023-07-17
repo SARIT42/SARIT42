@@ -99,15 +99,16 @@ Most of the projects that I have worked on or working on can be found here. Feel
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:rvividha@gmail.com)
 -->
 <p align="center">
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=V2dha&show_icons=true&title_color=4E1C94&icon_color=4E1C94&text_color=0F0321&bg_color=FFFFFF" alt="V2dha"/>  -->
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=V2dha&show_icons=true&title_color=4E1C94&icon_color=4E1C94&text_color=0F0321&bg_color=FFFFFF" alt="V2dha"/>  
 </p>
 <div align="center" style="color:white">
-
+<!--
 <p align="center"> 
   Visitors count:<br>
   <img src="https://profile-counter.glitch.me/SARIT42/count.svg" />
-</p>
-
+</p> -->
+<div align="center" style="color:white">
+ 
 #### Thanks for visiting! 🧉 From [Sarit](https://github.com/SARIT42)
 
 </div>
