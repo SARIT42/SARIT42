@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <h1 align='center'> Hey there! </h1>
 
 <p align="center">
-  <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+from+India;Interested+in+ML+and+AI!"></a>
+  <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+from+India;ML+and+AI+Enthusiast!"></a>
 </p>
 <img  align='right' src="https://camo.githubusercontent.com/5c07013e2b3b9684ba2732533a6341d837b3b98475048f3c9e6f398d11eb43d7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e67696629">
 I am a CS undergrad with a keen interest in ML and AI. Also, every new technology that is making our lives easier!
